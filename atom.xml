@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kokosplok.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-01T08:20:31.956Z</updated>
+    <title>kokosplok</title>
+    <updated>2020-04-01T08:23:58.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kokosplok.github.io"/>
     <link rel="self" href="https://kokosplok.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>用Gridea创建的GitHub网站</subtitle>
     <logo>https://kokosplok.github.io/images/avatar.png</logo>
     <icon>https://kokosplok.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, kokosplok</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kokosplok.github.io/post/hello-gridea/</id>
