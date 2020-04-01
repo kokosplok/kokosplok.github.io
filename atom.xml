@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kokosplok.github.io</id>
     <title>kokosplok</title>
-    <updated>2020-04-01T08:23:58.096Z</updated>
+    <updated>2020-04-01T08:24:54.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kokosplok.github.io"/>
     <link rel="self" href="https://kokosplok.github.io/atom.xml"/>
-    <subtitle>用Gridea创建的GitHub网站</subtitle>
+    <subtitle>用GitHub、Gridea创建的网站</subtitle>
     <logo>https://kokosplok.github.io/images/avatar.png</logo>
     <icon>https://kokosplok.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, kokosplok</rights>
